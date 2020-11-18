@@ -27,17 +27,19 @@
     <?php include "includes/header.php"; ?>
 
     <center>
-        <div class="container mt-5 w-50">
+        <div class="container mt-5 ">
             <div class="jumbotron jumbotron-fluid">
                 <div class="container">
+                <span class="glyphicon glyphicon-eur"></span>
                 <h1 class="display-5">Ingreso de pedido para visualizar información</h1>
                     <div>
-                        <input style="width:40%" class="form-control mt-5" type="number" placeholder="Ingrese su pedido" id="consulta" name="consulta" focus>
+                        
+                        <input style="width:300px" class="form-control mt-5" type="text" placeholder="Ingrese su pedido" id="consulta" name="consulta" focus>
                     </div>
 
-                    <div>
+                   
                         <div id="dato"></div>
-                    </div>
+                    
 
                 </div>
             </div>
@@ -78,6 +80,8 @@
 
         }
     </script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
