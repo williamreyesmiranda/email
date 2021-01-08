@@ -44,7 +44,7 @@
             <a href="programakamisetas/" style=" text-decoration: none">
                 <div class="jumbotron jumbotron-fluid">
                     <div class="container">
-                        <h1 class="display-5">Ingresar Control de Piso</h1>
+                        <h1 class="display-5">Ingresar Control de Piso21212</h1>
                         <hr class="my-4">
                         <p class="lead">En este link se puede ingresar a la intranet de la empresa.</p>
                     </div>
