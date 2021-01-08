@@ -46,7 +46,7 @@
                     <div class="container">
                         <h1 class="display-5">Ingresar Control de Piso21212</h1>
                         <hr class="my-4">
-                        <p class="lead">En este link se puede ingresar a la intranet de la empresa.</p>
+                        <p class="lead">En este link se puede ingresar a la intranet de la empresa.121512121</p>
                     </div>
                 </div>
             </a>
